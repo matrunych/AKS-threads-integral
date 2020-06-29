@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Applications/POK/AKC/threads_integration/main.cpp
+iostream
+-
+math.h
+-
+fstream
+-
+sstream
+-
+string
+-
+vector
+-
+thread
+-
+vector
+-
+mutex
+-
+utility
+-
+algorithm
+-
+cmath
+-
+

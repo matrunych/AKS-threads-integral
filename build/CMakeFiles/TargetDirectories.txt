@@ -1,0 +1,3 @@
+/Applications/POK/AKC/threads_integration/build/CMakeFiles/rebuild_cache.dir
+/Applications/POK/AKC/threads_integration/build/CMakeFiles/edit_cache.dir
+/Applications/POK/AKC/threads_integration/build/CMakeFiles/threads_integration.dir

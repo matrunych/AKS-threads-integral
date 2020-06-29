@@ -1,0 +1,9 @@
+0.01 #rel
+0.05 #abs
+3 # num of threads
+-100.0 #x_low
+100.00 #x_upper
+-100.0 #y_low
+100.00 #y_upper
+200 #initial steps
+5 #sum of func
